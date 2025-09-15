@@ -1,1 +1,2 @@
 course://web.backend?name="Ð Ð¾Ð¶ÐºÐ¾ ÐÐ°ÐºÑÐ¸Ð¼"&group="Ð¤ÐÐ-21Ñ"&subgroup="ÐÑÐ´Ð³ÑÑÐ¿Ð° 2"#squushe
+https://bank.gov.ua/NBUStatService/v1/statdirectory/basindbank?date=20231001&period=q&json
